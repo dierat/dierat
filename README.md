@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! 👋🏻
+
+My name is Diedra (pronounced dee-druh), and I'm a software developer who focuses on high quality user experiences and accessibility. I also make art and stuff!
+
+Thanks for stopping by 🥰
 
 <!--
 **dierat/dierat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dierat&theme=catppuccin-frappe)](https://git.io/streak-stats)
