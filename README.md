@@ -4,6 +4,8 @@ My name is Diedra (pronounced dee-druh), and I'm a software developer who focuse
 
 Thanks for stopping by 🥰
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=dierat&theme=catppuccin-frappe)](https://git.io/streak-stats)
+
 <!--
 **dierat/dierat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
